@@ -6,3 +6,4 @@
 |7402  | NOR Gate        | Universal logic gate| More than 5 | [link](http://web.mit.edu/6.131/www/document/7402.pdf) |
 | 555  | Timer           | Used in making oscialltors or debouncers. Responsible for clock pulses, etc. | More than 5 | [link](http://www.ti.com/lit/ds/symlink/lm555.pdf)|
 | 7805 | Voltage Regulator | Outputs a fixed five volts voltage. When you don't use a development board like Arduino or when you don't have a five volt power supply, you can use this IC to regulate the voltage. | 2 or 3 | [link](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)|
+|74HC4051 | Analog Multiplexer/Demultiplexer | Can be used to extend pins of a microcontroller or driving a seven segment, in general a mulitplexer/demultiplexer is used everywhere we need to extend or select. | 5 | [link](http://assets.nexperia.com/documents/data-sheet/74HC_HCT4051.pdf)|
